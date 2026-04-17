@@ -1,5 +1,5 @@
-#Os comandos utilizados foram: 
-##obs "não esqueça de salvar"
+# Os comandos utilizados foram: 
+## obs "não esqueça de salvar"
 * git version "para saber a versão do programa"
 * git init "para iniciar o projeto"
 * git add
